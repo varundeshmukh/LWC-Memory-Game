@@ -1,0 +1,14 @@
+**/jsconfig.json
+
+**/.eslintrc.json
+
+# Standard metadata
+package.xml
+**/appMenus/**
+**/appSwitcher/**
+**/objectTranslations/**
+**/profiles/**
+**/settings/**
+
+# LWC Jest
+**/__tests__/**
